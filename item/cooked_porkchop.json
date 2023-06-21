@@ -1,0 +1,8 @@
+{
+    "parent": "item/smaller_util",
+    "textures": {
+        "particle": "minecraft:item/transparent",
+        "layer0": "item/cooked_porkchop"
+    }
+}
+
