@@ -1,2 +1,1 @@
-# minecraft-texture-pack
-This texture pack includes ice tools, food and more stuff
+# [Download Texture Pack](https://github.com/Thing34872/minecraft-texture-pack/raw/main/Pack.zip)
