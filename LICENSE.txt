@@ -10,4 +10,4 @@ Users may not use this software to inflict any illegal doings of any kind.
 
 I have no responsibility for the action taken on you for using this software.
 Breaking the terms of this license shall result in action taken on you.
-If you don’t agree to this license, stop the use of this software.
+If you don’t agree to this license, stop the use of this software. 
